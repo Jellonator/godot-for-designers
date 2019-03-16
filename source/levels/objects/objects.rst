@@ -31,8 +31,40 @@ Creating Objects
 
 For some cases, you may need to create your own objects. For example, if you
 want to have a recurring background object such as a tree or a water fountain,
-or something that the player can walk on like a bookshelf or a shipping crate.
+or something that the player can walk on like a bookshelf or a shipping crate,
+it will probably be for the best to create a scene for it rather than recreate
+the entire thing from scratch every time.
 
+Here's an example of a tree:
+
+.. image:: object-tree.png
+
+And here's an example of a bookshelf, note how since it is a solid object, it
+has a StaticBody2D root node, and it has a CollisionShape2D child:
+
+.. image:: object-bookshelf.png
 
 Placing Objects
 ---------------
+
+Now, you can just instance the objects using the instance button.
+
+.. image:: button-instance.png
+
+It might also be useful to align objects that you have instanced to a grid when
+you move them. Click on the snap icon in the tool bar to enable snapping.
+
+.. image:: button-snap.png
+
+Then, click on the dropdown menu next to it, then click on 'Snap to Grid' to
+enable snapping to grid. You may want to change the grid size of the snap by
+clicking 'Configure Snap' in the drop down menu.
+
+.. image:: configure-snap.png
+
+Now, you can place objects while snapped to the grid. If you want to see the
+grid, press the G key to toggle the grid's visibility.
+
+.. image:: placed-objects.png
+
+And here's the final product.
