@@ -101,15 +101,15 @@ A project's data and files are all saved in a project folder that can be
 divided into multiple subfolders. You can read more about how Godot manages
 the project's files here: `File System`_.
 
-.. _`Introduction to Godot's Editor`: http://docs.godotengine.org/en/latest/getting_started/step_by_step/intro_to_the_editor_interface.html
-.. _`Scenes and Nodes`: http://docs.godotengine.org/en/latest/getting_started/step_by_step/scenes_and_nodes.html
-.. _`Instancing`: http://docs.godotengine.org/en/latest/getting_started/step_by_step/instancing.html
-.. _`Instancing (continued)`: http://docs.godotengine.org/en/latest/getting_started/step_by_step/instancing_continued.html
-.. _`Godot's Design Philosophy`: http://docs.godotengine.org/en/latest/getting_started/step_by_step/godot_design_philosophy.html
-.. _`Design Interfaces With the Control Nodes`: http://docs.godotengine.org/en/latest/getting_started/step_by_step/ui_introduction_to_the_ui_system.html
-.. _`Design a Title Screen`: http://docs.godotengine.org/en/latest/getting_started/step_by_step/ui_main_menu.html
-.. _`Design the GUI`: http://docs.godotengine.org/en/latest/getting_started/step_by_step/ui_game_user_interface.html
-.. _`Physics Introduction`: https://docs.godotengine.org/en/latest/tutorials/physics/physics_introduction.html
-.. _`Resources`: https://docs.godotengine.org/en/latest/getting_started/step_by_step/resources.html
-.. _`File System`: https://docs.godotengine.org/en/latest/getting_started/step_by_step/filesystem.html
-.. _`SceneTree`: https://docs.godotengine.org/en/latest/getting_started/step_by_step/scene_tree.html
+.. _`Introduction to Godot's Editor`: http://docs.godotengine.org/en/3.1/getting_started/step_by_step/intro_to_the_editor_interface.html
+.. _`Scenes and Nodes`: http://docs.godotengine.org/en/3.1/getting_started/step_by_step/scenes_and_nodes.html
+.. _`Instancing`: http://docs.godotengine.org/en/3.1/getting_started/step_by_step/instancing.html
+.. _`Instancing (continued)`: http://docs.godotengine.org/en/3.1/getting_started/step_by_step/instancing_continued.html
+.. _`Godot's Design Philosophy`: http://docs.godotengine.org/en/3.1/getting_started/step_by_step/godot_design_philosophy.html
+.. _`Design Interfaces With the Control Nodes`: http://docs.godotengine.org/en/3.1/getting_started/step_by_step/ui_introduction_to_the_ui_system.html
+.. _`Design a Title Screen`: http://docs.godotengine.org/en/3.1/getting_started/step_by_step/ui_main_menu.html
+.. _`Design the GUI`: http://docs.godotengine.org/en/3.1/getting_started/step_by_step/ui_game_user_interface.html
+.. _`Physics Introduction`: https://docs.godotengine.org/en/3.1/tutorials/physics/physics_introduction.html
+.. _`Resources`: https://docs.godotengine.org/en/3.1/getting_started/step_by_step/resources.html
+.. _`File System`: https://docs.godotengine.org/en/3.1/getting_started/step_by_step/filesystem.html
+.. _`SceneTree`: https://docs.godotengine.org/en/3.1/getting_started/step_by_step/scene_tree.html

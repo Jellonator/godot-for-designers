@@ -136,4 +136,4 @@ clicking on the editor will remove the tile at that location.
 
 .. image:: tilemap_tiles_placed.png
 
-.. _`Using Tilemaps`: https://docs.godotengine.org/en/latest/tutorials/2d/using_tilemaps.html
+.. _`Using Tilemaps`: https://docs.godotengine.org/en/3.1/tutorials/2d/using_tilemaps.html

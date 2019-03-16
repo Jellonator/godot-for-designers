@@ -24,4 +24,4 @@ anyways.
     levels/levels
     animation/animation
 
-.. _`Godot Official Documentation`: http://docs.godotengine.org/en/latest/about/introduction.html
+.. _`Godot Official Documentation`: http://docs.godotengine.org/en/3.1/about/introduction.html
