@@ -9,4 +9,5 @@
 
     tilemap/tilemap
     objects/objects
+    autotiles/autotiles
     vaniamap/vaniamap
