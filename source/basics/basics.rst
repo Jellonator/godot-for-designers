@@ -1,6 +1,6 @@
-.. _level_basics:
+.. _godot_basics:
 
-Level Design Basics
+Godot Basics
 ===================
 
 A lot of this section is going to be just linking to the official Godot
