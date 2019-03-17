@@ -126,3 +126,56 @@ Placing 3x3 autotiles
 Unlike 2x2 autotiles, 3x3 autotiles can be arranged in any orientation.
 
 .. image:: 3x3-tiles-correct.png
+
+Fixing blurry tiles
+-------------------
+
+You may have noticed that your tiles look a little blurry. That's because Godot
+is importing them with filtering enabled, which normally is supposed to smooth
+out textures for games with textures or traditional art, but it doesn't look
+good for pixel art, and also causes some artifacts with tilesets.
+
+Fortunately, there's an easy way to fix this problem. First, open the image
+file in Godot's file tree by double clicking it.
+
+.. image:: file-tree.png
+
+Next, open the 'Import' dock by clicking on it.
+
+.. image:: dock-import.png
+
+There are many different configuration options you can choose for importing
+images. However, you don't really need to worry about them. Instead, click the
+'Preset...' button and choose the '2D Pixel' option.
+
+.. image:: import-presets.png
+
+You may notice that some of the import settings have changed.
+
+.. image:: dock-import-pixel.png
+
+Once you have done this, click the 'Reimport' button at the bottom of the
+import dock to reimport the image. Once you have done that, your tilemap will
+now look crisp and shouldn't have any visual artifacts.
+
+.. image:: tilemap-reimported.png
+
+You may want to set this import method as the default import method for the
+future. To do this, click the 'Preset...' button again and click
+'Set as Default for Texture.'
+
+.. image:: dock-import-setpreset.png
+
+Now, every texture will be imported using that preset. If you have any other
+images, you will need to reimport them as well. This may seem like a tedious
+task, however, you can reimport multiple images at a time by using ctrl+click
+to select multiple files in the file tree.
+
+.. image:: multiple-selected.png
+
+Then, the 'Import' dock will show that you have multiple files selected.
+
+.. image:: dock-import-multiple.png
+
+Then, you can just select a preset or change the settings manually and
+reimport.
