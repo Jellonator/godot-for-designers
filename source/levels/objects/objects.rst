@@ -68,3 +68,20 @@ grid, press the G key to toggle the grid's visibility.
 .. image:: placed-objects.png
 
 And here's the final product.
+
+Configuring objects
+-------------------
+
+Programmers are able to give objects properties of their own. For example, a
+'spring' object might have a 'Bounce Height' property that determines how high
+the spring bounces the player when they jump on it.
+
+.. image:: spring.png
+
+Just change the custom 'Bounce Height' property under the 'Script Variables'
+section like you would change any other property.
+
+.. image:: spring-changed.png
+
+If you want to reset a property, just click the circular arrow icon that is
+now next to the property.
