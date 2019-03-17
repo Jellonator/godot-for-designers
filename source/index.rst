@@ -23,5 +23,6 @@ anyways.
     basics/basics
     levels/levels
     animation/animation
+    writing/writing
 
 .. _`Godot Official Documentation`: http://docs.godotengine.org/en/3.1/about/introduction.html
